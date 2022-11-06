@@ -1,0 +1,8 @@
+{ 
+  "name":"my-app",
+  "private":true,
+  "proxy":"http//127.0.0.1:8000",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
